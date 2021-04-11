@@ -10,7 +10,7 @@ def contarPalavrasNoTexto(linhas):
 	#Percorre todas as palavras do arquivo e salva em um dicionário
 	for linha in linhas:
 		#palavras = linha.lower().split(' ')
-		palavras = linha.lower().replace('.',' ').replace(':',' ').replace(',',' ').replace(';',' ').replace('?',' ').replace('¿',' ').replace("'",' ').replace('"',' ').replace('/',' ').replace('|',' ').replace('\\',' ').replace('(',' ').replace(')',' ').replace('[',' ').replace(']',' ').replace('{',' ').replace('}',' ').split(' ') #replace(' ','').
+		palavras = linha.lower().replace('.',' ').replace(':',' ').replace(',',' ').replace(';',' ').replace('?',' ').replace('¿',' ').replace("'",' ').replace('"',' ').replace('/',' ').replace('|',' ').replace('\\',' ').replace('(',' ').replace(')',' ').replace('[',' ').replace(']',' ').replace('{',' ').replace('}',' ').replace('-',' ').replace('_',' ').replace('*',' ').replace('<',' ').replace('>',' ').replace('^',' ').replace('~',' ').replace('´',' ').replace('`',' ').split(' ') #replace(' ','').
 
 		#Adiciona palavras ao dicionário
 		for palavra in palavras:

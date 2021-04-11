@@ -11,15 +11,15 @@ por                            24                             False
 em                             24                             False                         
 um                             21                             False                         
 do                             20                             False                         
+se                             20                             False                         
 vida                           19                             False                         
 minha                          18                             False                         
 era                            18                             False                         
 para                           17                             False                         
-se                             17                             False                         
 mas                            16                             False                         
 isso                           15                             False                         
+me                             14                             False                         
 anos                           14                             False                         
-me                             13                             False                         
 da                             13                             False                         
 mais                           11                             False                         
 quando                         11                             False                         
@@ -29,7 +29,6 @@ tudo                           10                             False
 as                             10                             False                         
 foi                            10                             False                         
 na                             10                             False                         
--                              10                             True                          
 havia                          9                              False                         
 tinha                          9                              False                         
 sobre                          8                              False                         
@@ -218,6 +217,7 @@ cirurgia                       2                              False
 situação                       2                              False                         
 ninguém                        2                              False                         
 desejam                        2                              False                         
+lo                             2                              False                         
 seja                           2                              False                         
 suas                           2                              False                         
 the                            2                              False                         
@@ -229,7 +229,7 @@ google                         2                              False
 edição                         2                              False                         
 foto                           2                              False                         
 estrada                        2                              False                         
-mantenham-se                   2                              False                         
+mantenham                      2                              False                         
 ama                            1                              True                          
 honrado                        1                              False                         
 universidades                  1                              False                         
@@ -401,7 +401,8 @@ windows                        1                              False
 cópia                          1                              False                         
 nenhum                         1                              False                         
 viesse                         1                              False                         
-oferecê-las                    1                              False                         
+oferecê                        1                              False                         
+las                            1                              False                         
 conectar                       1                              False                         
 impossível                     1                              False                         
 ficava                         1                              False                         
@@ -468,7 +469,7 @@ empresários                    1                              False
 derrubado                      1                              False                         
 bastão                         1                              False                         
 recebido                       1                              False                         
-desculpei-me                   1                              False                         
+desculpei                      1                              False                         
 david                          1                              False                         
 packard                        1                              False                         
 rob                            1                              False                         
@@ -605,7 +606,7 @@ casa                           1                              False
 organizar                      1                              False                         
 negócios                       1                              False                         
 jargão                         1                              False                         
-prepare-se                     1                              False                         
+prepare                        1                              False                         
 tentar                         1                              False                         
 seus                           1                              False                         
 filhos                         1                              False                         
@@ -653,7 +654,7 @@ intelectual                    1                              False
 quer                           1                              False                         
 céu                            1                              False                         
 prefeririam                    1                              False                         
-fazê-lo                        1                              False                         
+fazê                           1                              False                         
 conseguiu                      1                              False                         
 escapar                        1                              False                         
 maior                          1                              False                         
@@ -674,7 +675,7 @@ verdade                        1                              False
 dispõem                        1                              False                         
 limitado                       1                              False                         
 deveriam                       1                              False                         
-desperdiçá-lo                  1                              False                         
+desperdiçá                     1                              False                         
 outra                          1                              False                         
 aprisionar                     1                              False                         
 dogmas                         1                              False                         
