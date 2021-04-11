@@ -59,7 +59,7 @@ Trecho da análise extraído do arquivo `arquivo_saida.txt` (a análise na ínte
 |**vida**   |**19**             |**False**
 |minha      |18                 |False
 
-Como pode ser observado, a palavra **vida** foi impregada **19 vezes** durante este discurso e **não é** um palíndromo.
+Como pode ser observado, a palavra **vida** foi empregada **19 vezes** durante este discurso e **não é** um palíndromo.
 
 ## Instalando o software
 
@@ -106,9 +106,12 @@ Para utilização correta do software, é melhor (mas não necessário) entender
 
 - Linux
     > $ `cd ./speech_word_count/mine/src/`
+    
     > $ `chmod +x ./main.py`
+    
     > $ `python ./main.py`
 
 - Windows
     > $ `cd .\speech_word_count\mine\src\`
+    
     > $ `python .\main.py`
