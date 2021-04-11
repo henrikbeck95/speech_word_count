@@ -22,7 +22,15 @@ O software possui um sistema de contagem de palavras e um rankeamento que exibe 
 
 ## Demonstração sobre o funcionamento
 
-Para visualizar um modelo de demonstração, confira os arquivos `arquivo_entrada.txt` e `arquivo_saida.txt` que estão na pasta `src`.
+### Comandos do PowerShell
+
+- ![commands_powershell](./docs/screenshots/commands_powershell.jpeg)
+
+### Arquivo de saída
+
+- ![arquivo_saida](./docs/screenshots/arquivo_saida.png)
+
+Para melhor visualizar o modelo de demonstração, confira os arquivos `arquivo_entrada.txt` e `arquivo_saida.txt` que estão na pasta `src`.
 
 ### Sobre o arquivo que foi utilizado...
 
@@ -30,28 +38,28 @@ Neste arquivo é possível ver a análise sobre a versão traduzida do discursso
 
 ### Sobre a análise do discurso de exemplo...
 
-Trecho da análise extraído do arquivo `arquivo_saida.txt` (a análise na íntegra contém 797 linha).
+Trecho da análise extraído do arquivo `arquivo_saida.txt` (a análise na íntegra contém 763 linha).
 
 |Palavra    |Menções no texto   |É um palíndromo?
 |---        |---                |---
-|que        |77                 |False
-|e          |72                 |True
-|de         |69                 |False
-|o          |63                 |True
-|a          |58                 |True
-|não        |30                 |False
-|uma        |30                 |False
+|que        |75                 |False
+|e          |67                 |True
+|de         |62                 |False
+|o          |61                 |True
+|a          |57                 |True
 |eu         |29                 |False
-|em         |27                 |False
-|por        |25                 |False
+|não        |29                 |False
+|uma        |28                 |False
 |é          |25                 |True
-|um         |22                 |False
-|do         |21                 |False
-|**vida**   |20                 |False
+|por        |24                 |False
+|em         |24                 |False
+|um         |21                 |False
+|do         |20                 |False
+|se         |20                 |False
+|**vida**   |**19**             |**False**
 |minha      |18                 |False
-|era        |18                 |False
 
-Como pode ser observado, a palavra **vida** foi impregada **20 vezes** durante este discurso.
+Como pode ser observado, a palavra **vida** foi impregada **19 vezes** durante este discurso e **não é** um palíndromo.
 
 ## Instalando o software
 
